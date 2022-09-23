@@ -4,4 +4,4 @@ title: Homeworks
 description: Homeworks - graded on effort only.
 ---
 
-Coming soon :)
+Homeworks will be released and turned in via [Gradescope](https://bruinlearn.ucla.edu/courses/140089/external_tools/408).  You will find links here.
