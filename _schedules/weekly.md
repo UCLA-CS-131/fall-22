@@ -23,6 +23,10 @@ schedule:
         start: 11:00 AM
         end: 12:00 PM
         location: Boelter 3256-S
+      - name: OH (Carey)
+        start: 1:00 PM
+        end: 2:00 PM
+        location: Eng VI 464
       - name: Lecture
         start: 2:00 PM
         end: 3:50 PM
@@ -47,6 +51,10 @@ schedule:
         start: 12:00 PM
         end: 2:00 PM
         location: Boelter 3256-S
+      - name: OH (Carey)
+        start: 4:00 PM
+        end: 5:00 PM
+        location: Eng VI 464
   - name: Thursday
     events:
       - name: OH (Siddharth)
