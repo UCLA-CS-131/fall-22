@@ -31,7 +31,7 @@ Course Location: Northwest Auditorium
 
 Instructor Office Hours: Eng VI room 464
 
-Office Hours: TBD
+Office Hours: Mon/Wed 4-5pm or by appointment
 
 
 | TA | Section | Discussion | Office Hours | Email |
