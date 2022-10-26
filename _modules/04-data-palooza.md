@@ -8,7 +8,7 @@ M Oct 17
 
 W Oct 19
 : **Lecture**{: .label .label-blue }Typing Deep Dive
-  : Lecture Notes, [Slides](https://docs.google.com/presentation/d/18FaEpHZgssxTS-TNSs-VJDghLS1v5X1N/)
+  : [Lecture Notes]({{site.baseurl}}/lectures/08), [Slides](https://docs.google.com/presentation/d/18FaEpHZgssxTS-TNSs-VJDghLS1v5X1N/)
 
 R Oct 20
 : **Due**{: .label .label-red }HW 3
